@@ -1,5 +1,4 @@
 # Student Grade Calculator
-X
 
 
 ## About
